@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="ThermalGuard Mega Ai.csproj" Id="23a86684-9277-4d49-aa95-aa91c5c41e9b">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
