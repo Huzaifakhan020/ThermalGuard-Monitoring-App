@@ -19,3 +19,4 @@ Getting Started
 An NVIDIA GPU (for NVML telemetry).
 Visual Studio (if building from source).
 Important: This application *must* be run as an **Administrator** to properly read CPU temperature sensors via the LibreHardwareMonitor library.
+Designed by Huzaifa Ahmed Khan - 2026
